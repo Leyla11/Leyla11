@@ -1,6 +1,9 @@
+<img src="https://res.cloudinary.com/da8wiph9w/image/upload/v1699473627/s0jwhgvgbkerq5sqflza.jpg">
+
+
 ### Hi there 👋
 
-<!--
+
 **Leyla11/Leyla11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![leyla11 github stats](https://github-readme-stats.vercel.app/api?username=leyla11 &show_icons=true)
